@@ -1,0 +1,27 @@
+{
+  "name": "Slides",
+  "details":"Use Trello to create your next great presentation",
+  "icon": {
+    "url": "https://cdn.hyperdev.com/us-east-1:3d31b21c-01a0-4da2-8827-4bc6e88b7618/hyperdev.svg"
+  },
+  "author": "Trello Inc",
+  "capabilities": [
+    "authorization-status",
+    "attachment-sections",
+    "attachment-thumbnail",
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges",
+    "card-from-url",
+    "format-url",
+    "show-authorization",
+    "show-settings"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
